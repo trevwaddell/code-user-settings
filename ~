@@ -1,5 +1,5 @@
-{
-  "workbench.iconTheme": "material-icon-theme",
+
+rkbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Atom One Dark",
   "window.zoomLevel": 1,
   "prettier.eslintIntegration": true,
@@ -7,3 +7,4 @@
   "editor.formatOnSave": true,
   "editor.tabSize": 2
 }
+
