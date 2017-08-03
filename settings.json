@@ -1,0 +1,8 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Atom One Dark",
+  "window.zoomLevel": 1,
+  "prettier.eslintIntegration": true,
+  "javascript.format.enable": false,
+  "editor.formatOnSave": true
+}
