@@ -10,6 +10,7 @@ Switching from atom to vs code, storing user settings here, to quickly get setup
   "window.zoomLevel": 1,
   "prettier.eslintIntegration": true,
   "javascript.format.enable": false,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2
 }
 ```
